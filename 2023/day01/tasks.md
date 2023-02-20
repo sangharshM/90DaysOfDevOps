@@ -26,6 +26,6 @@ This is the day you have to Take this challenge and start your #90DaysOfDevOps w
         Which makes productions and deployment of any IT services or application to server faster and smoother.
         It reduces the necessecity of actual hardware which has capacity limitaions, needs heavy investments and consumes more space.
         DevOps gives an opportunity to create a company which can be scaled on any level possible, it unleashes the limitations of a developer.
-        With continious development and deployment we get time to take more feedback form users to correct or improve the system functionality. 
+        With continious development and deployment we get time to take more feedback form users to correct or improve the system functionality.
 
  
